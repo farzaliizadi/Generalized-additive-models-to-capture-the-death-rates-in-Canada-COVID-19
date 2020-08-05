@@ -1,5 +1,7 @@
 # Generalized-additive-models-to-capture-the-death-rates-in-Canada-COVID-19
 
+https://www.youtube.com/watch?v=HXRsFCSghf8&feature=youtu.be
+
 https://arxiv.org/pdf/2008.01030.pdf
 
 Abstract. To capture the death rates and strong weekly, biweekly and probably monthly patterns in the Canada COVID-19, we utilize the generalized
